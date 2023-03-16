@@ -37,7 +37,7 @@ author:
   type      : # "person" (default), "organization"
   name      : Dima Mironov
   url       :
-  avatar    :https://avatars.githubusercontent.com/u/127654704?v=4 # path or url of avatar image (square)
+  avatar    : https://avatars.githubusercontent.com/u/127654704?v=4 # path or url of avatar image (square)
   bio       : 
   instagram : svetlitsa_art
   email     : okdimok@gmail.com
