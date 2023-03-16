@@ -7,7 +7,7 @@ titles:
   en-US   : *EN
   en-CA   : *EN
   en-AU   : *EN
-  en      : &RU       О Проекте
+  ru      : &RU       О Проекте
   # @end locale config
 key: page-about
 ---
