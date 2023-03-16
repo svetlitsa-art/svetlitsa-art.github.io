@@ -4,6 +4,9 @@
     & > li > {
       .instagram-button {
         @include clickable($text-color-1, $instagram-color);
+        & > svg path {
+          fill: unset;
+        }
       }
       .mail-button {
         @include clickable($text-color-1, $mail-color);
